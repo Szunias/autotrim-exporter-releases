@@ -57,10 +57,10 @@ layout and setup process.
 
 ## Availability
 
-AutoTrim Exporter 3.1.1 is the current stable release. Download the product ZIP
-and its SHA-256 checksum from this repository's Releases page. Installation and
-upgrade instructions are included in the package. Historical release notes are
-available under [releases](releases/).
+AutoTrim Exporter 3.1.1 is the current stable build. Public package publication
+is pending explicit distribution approval because a working ReaScript package
+necessarily contains readable Lua code. Historical release notes are available
+under [releases](releases/).
 
 ## Source and licensing
 
