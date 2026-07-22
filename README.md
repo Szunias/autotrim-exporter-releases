@@ -13,7 +13,7 @@
 
 ---
 
-AutoTrim Exporter brings the repetitive parts of sound-asset delivery into one clear REAPER workflow. It collects layered material across tracks, detects useful audio, preserves tails, prepares levels, handles naming and versioning, and verifies every WAV before it becomes a delivery file.
+AutoTrim Exporter brings the repetitive parts of sound-asset delivery into one clear REAPER workflow. It collects layered material across tracks, detects useful audio, preserves tails, prepares levels, handles naming and versioning, and verifies every file before it becomes a delivery.
 
 This repository is the public home for product information, release notes, and distribution updates. The application source is maintained privately.
 
@@ -57,10 +57,14 @@ layout and setup process.
 
 ## Availability
 
-AutoTrim Exporter 3.1.1 is the current stable build. Public package publication
-is pending explicit distribution approval because a working ReaScript package
-necessarily contains readable Lua code. Historical release notes are available
-under [releases](releases/).
+AutoTrim Exporter 3.1.1 is the current stable release.
+
+- [Download AutoTrim Exporter 3.1.1](https://github.com/Szunias/autotrim-exporter-releases/releases/download/v3.1.1/AutoTrim-Exporter-3.1.1.zip)
+- [Download the SHA-256 checksum](https://github.com/Szunias/autotrim-exporter-releases/releases/download/v3.1.1/AutoTrim-Exporter-3.1.1.zip.sha256)
+- [Read the complete release notes](https://github.com/Szunias/autotrim-exporter-releases/releases/tag/v3.1.1)
+
+Installation and upgrade instructions are included in the package. Historical
+release notes are available under [releases](releases/).
 
 ## Source and licensing
 
