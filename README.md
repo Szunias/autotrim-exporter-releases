@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="Version 2.4.0" src="https://img.shields.io/badge/version-2.4.0-5b6ee1">
+  <img alt="Version 2.6.0" src="https://img.shields.io/badge/version-2.6.0-5b6ee1">
   <img alt="REAPER" src="https://img.shields.io/badge/DAW-REAPER-d9a441">
   <img alt="Proprietary license" src="https://img.shields.io/badge/license-proprietary-6b7280">
 </p>
