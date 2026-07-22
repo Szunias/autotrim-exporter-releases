@@ -1,0 +1,8 @@
+# Release binaries belong on GitHub Releases, not in the documentation branch.
+*.zip
+*.sha256
+*.sig
+
+.DS_Store
+Thumbs.db
+Desktop.ini

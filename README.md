@@ -2,11 +2,11 @@
 
 <p align="center">
   <strong>A focused sound-design export workflow for REAPER.</strong><br>
-  Select the layers. Frame the sound. Deliver verified WAV assets.
+  Select the layers. Frame the sound. Deliver verified audio assets.
 </p>
 
 <p align="center">
-  <img alt="Version 2.6.0" src="https://img.shields.io/badge/version-2.6.0-5b6ee1">
+  <img alt="Latest release 3.1.1" src="https://img.shields.io/badge/release-3.1.1-55c58a">
   <img alt="REAPER" src="https://img.shields.io/badge/DAW-REAPER-d9a441">
   <img alt="Proprietary license" src="https://img.shields.io/badge/license-proprietary-6b7280">
 </p>
@@ -29,6 +29,7 @@ Sound effects rarely live on one clean track. A finished asset may combine impac
 - **Detect useful audio** with independent start and tail thresholds.
 - **Preserve transients and tails** with adjustable padding and extra-tail controls.
 - **Render one layered asset or one file per item.**
+- **Deliver WAV, FLAC, OGG, or MP3** while keeping analysis lossless.
 - **Normalize by LUFS-I, RMS, Peak, or True Peak** with a true-peak ceiling.
 - **Work through naming lists** for variations and production batches.
 - **Create safe incremental versions** or deliberately replace an existing delivery.
@@ -41,17 +42,25 @@ Sound effects rarely live on one clean track. A finished asset may combine impac
 2. Run **Select across tracks** to collect the matching layers.
 3. Review the automatically fitted arrange view.
 4. Choose delivery, trimming, naming, and level settings.
-5. Export verified WAV assets.
+5. Export verified WAV, FLAC, OGG, or MP3 assets.
 
 ## Requirements
 
-- REAPER 7
+- REAPER 7 (64-bit)
+- ReaImGui 0.10.0.5 or newer in the 0.10 API series
+- ReaPack is recommended for installing ReaImGui
 - Windows, macOS, or Linux
 - SWS Extension is optional
 
+See the [installation guide](docs/INSTALLATION.md) for the complete package
+layout and setup process.
+
 ## Availability
 
-AutoTrim Exporter is currently in private product development. Public release notes are available from the [Releases](../../releases) page. Licensed distribution packages will be announced here when available.
+AutoTrim Exporter 3.1.1 is the current stable release. Download the product ZIP
+and its SHA-256 checksum from this repository's Releases page. Installation and
+upgrade instructions are included in the package. Historical release notes are
+available under [releases](releases/).
 
 ## Source and licensing
 
