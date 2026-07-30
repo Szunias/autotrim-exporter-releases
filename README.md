@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="Latest release 3.1.3" src="https://img.shields.io/badge/release-3.1.3-55c58a">
+  <img alt="Latest release 3.2.0" src="https://img.shields.io/badge/release-3.2.0-55c58a">
   <img alt="REAPER" src="https://img.shields.io/badge/DAW-REAPER-d9a441">
   <img alt="Proprietary license" src="https://img.shields.io/badge/license-proprietary-6b7280">
 </p>
@@ -28,6 +28,8 @@ Sound effects rarely live on one clean track. A finished asset may combine impac
 - **Automatically frame the result** horizontally and vertically in REAPER.
 - **Detect useful audio** with independent start and tail thresholds.
 - **Preserve transients and tails** with adjustable padding and extra-tail controls.
+- **Or skip trimming completely** and deliver the selection exactly as it sits.
+- **Choose how many render passes** each delivery is allowed to use.
 - **Render one layered asset or one file per item.**
 - **Deliver WAV, FLAC, OGG, or MP3** while keeping analysis lossless.
 - **Normalize by LUFS-I, RMS, Peak, or True Peak** with a true-peak ceiling.
@@ -57,11 +59,11 @@ layout and setup process.
 
 ## Availability
 
-AutoTrim Exporter 3.1.3 is the current stable release.
+AutoTrim Exporter 3.2.0 is the current stable release.
 
-- [Download AutoTrim Exporter 3.1.3](https://github.com/Szunias/autotrim-exporter-releases/releases/download/v3.1.3/AutoTrim-Exporter-3.1.3.zip)
-- [Download the SHA-256 checksum](https://github.com/Szunias/autotrim-exporter-releases/releases/download/v3.1.3/AutoTrim-Exporter-3.1.3.zip.sha256)
-- [Read the complete release notes](https://github.com/Szunias/autotrim-exporter-releases/releases/tag/v3.1.3)
+- [Download AutoTrim Exporter 3.2.0](https://github.com/Szunias/autotrim-exporter-releases/releases/download/v3.2.0/AutoTrim-Exporter-3.2.0.zip)
+- [Download the SHA-256 checksum](https://github.com/Szunias/autotrim-exporter-releases/releases/download/v3.2.0/AutoTrim-Exporter-3.2.0.zip.sha256)
+- [Read the complete release notes](https://github.com/Szunias/autotrim-exporter-releases/releases/tag/v3.2.0)
 
 Installation and upgrade instructions are included in the package. Historical
 release notes are available under [releases](releases/).
