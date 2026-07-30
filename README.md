@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="Latest release 3.1.1" src="https://img.shields.io/badge/release-3.1.1-55c58a">
+  <img alt="Latest release 3.1.3" src="https://img.shields.io/badge/release-3.1.3-55c58a">
   <img alt="REAPER" src="https://img.shields.io/badge/DAW-REAPER-d9a441">
   <img alt="Proprietary license" src="https://img.shields.io/badge/license-proprietary-6b7280">
 </p>
@@ -57,11 +57,11 @@ layout and setup process.
 
 ## Availability
 
-AutoTrim Exporter 3.1.1 is the current stable release.
+AutoTrim Exporter 3.1.3 is the current stable release.
 
-- [Download AutoTrim Exporter 3.1.1](https://github.com/Szunias/autotrim-exporter-releases/releases/download/v3.1.1/AutoTrim-Exporter-3.1.1.zip)
-- [Download the SHA-256 checksum](https://github.com/Szunias/autotrim-exporter-releases/releases/download/v3.1.1/AutoTrim-Exporter-3.1.1.zip.sha256)
-- [Read the complete release notes](https://github.com/Szunias/autotrim-exporter-releases/releases/tag/v3.1.1)
+- [Download AutoTrim Exporter 3.1.3](https://github.com/Szunias/autotrim-exporter-releases/releases/download/v3.1.3/AutoTrim-Exporter-3.1.3.zip)
+- [Download the SHA-256 checksum](https://github.com/Szunias/autotrim-exporter-releases/releases/download/v3.1.3/AutoTrim-Exporter-3.1.3.zip.sha256)
+- [Read the complete release notes](https://github.com/Szunias/autotrim-exporter-releases/releases/tag/v3.1.3)
 
 Installation and upgrade instructions are included in the package. Historical
 release notes are available under [releases](releases/).
