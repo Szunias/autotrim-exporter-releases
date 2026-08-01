@@ -1,11 +1,11 @@
 # Installation
 
-AutoTrim Exporter is not publicly distributed yet. These steps describe the
-installation flow that will accompany the first licensed release.
+These steps install the licensed AutoTrim Exporter package published through
+this repository's GitHub Releases page.
 
 ## Requirements
 
-- REAPER 7 (64-bit)
+- REAPER 7.37 or newer (64-bit)
 - ReaImGui 0.10.0.5 or newer in the 0.10 API series
 - ReaPack, recommended for installing ReaImGui
 - SWS Extension, optional

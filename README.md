@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="Latest release 3.3.0" src="https://img.shields.io/badge/release-3.3.0-55c58a">
+  <img alt="Latest release 3.4.3" src="https://img.shields.io/badge/release-3.4.3-55c58a">
   <img alt="REAPER" src="https://img.shields.io/badge/DAW-REAPER-d9a441">
   <img alt="Proprietary license" src="https://img.shields.io/badge/license-proprietary-6b7280">
 </p>
@@ -51,7 +51,7 @@ Sound effects rarely live on one clean track. A finished asset may combine impac
 
 ## Requirements
 
-- REAPER 7 (64-bit)
+- REAPER 7.37 or newer (64-bit)
 - ReaImGui 0.10.0.5 or newer in the 0.10 API series
 - ReaPack is recommended for installing ReaImGui
 - Windows, macOS, or Linux
@@ -62,11 +62,11 @@ layout and setup process.
 
 ## Availability
 
-AutoTrim Exporter 3.3.0 is the current stable release.
+AutoTrim Exporter 3.4.3 is the current stable release.
 
-- [Download AutoTrim Exporter 3.3.0](https://github.com/Szunias/autotrim-exporter-releases/releases/download/v3.3.0/AutoTrim-Exporter-3.3.0.zip)
-- [Download the SHA-256 checksum](https://github.com/Szunias/autotrim-exporter-releases/releases/download/v3.3.0/AutoTrim-Exporter-3.3.0.zip.sha256)
-- [Read the complete release notes](https://github.com/Szunias/autotrim-exporter-releases/releases/tag/v3.3.0)
+- [Download AutoTrim Exporter 3.4.3](https://github.com/Szunias/autotrim-exporter-releases/releases/download/v3.4.3/AutoTrim-Exporter-3.4.3.zip)
+- [Download the SHA-256 checksum](https://github.com/Szunias/autotrim-exporter-releases/releases/download/v3.4.3/AutoTrim-Exporter-3.4.3.zip.sha256)
+- [Read the complete release notes](https://github.com/Szunias/autotrim-exporter-releases/releases/tag/v3.4.3)
 
 Installation and upgrade instructions are included in the package. Historical
 release notes are available under [releases](releases/).
