@@ -9,6 +9,11 @@ this repository's GitHub Releases page.
 - ReaImGui 0.10.0.5 or newer in the 0.10 API series
 - ReaPack, recommended for installing ReaImGui
 - SWS Extension, optional
+- On macOS and Linux, an output folder whose filesystem supports hard links,
+  and `/bin/ln`. Where the hard link fails (for example on FAT/exFAT or some
+  network mounts) AutoTrim stops rather than risk overwriting another
+  program's file; export to a supported folder and copy the assets afterwards.
+  Windows has no such requirement.
 
 ## Install ReaImGui
 
@@ -22,8 +27,9 @@ In REAPER, open **Extensions → ReaPack → Browse packages**, search for
 2. Verify the downloaded ZIP against the published checksum.
 3. Extract the package.
 4. Copy the complete `AutoTrim Exporter` folder into the `Scripts` directory
-   inside the REAPER resource path. Windows packages also include an optional
-   installer script.
+   inside the REAPER resource path. On Windows you can instead double-click
+   `Install-Windows.cmd` in the extracted package; `INSTALL.md` in the package
+   describes its options.
 5. In REAPER, open **Actions → Show action list**.
 6. Choose **New action → Load ReaScript** and select
    `AutoTrim Exporter/AutoTrim_Exporter.lua`.
